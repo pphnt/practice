@@ -2,5 +2,5 @@
 int main()
 {
     printf("Welcome EGCO 313");
-    printf("apinya pituxcoosuvarn");
+    printf("Hanarint Chanekasit");
 }
